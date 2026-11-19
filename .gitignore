@@ -8,8 +8,7 @@ __pycache__/
 /dataset/train.txt
 /dataset/val.txt
 /dataset/test.txt
-/dataset/train300.txt
-/dataset/test43.txt
+/dataset/huggingface/
 *.cache
 
 # Local YOLO weights, settings, and outputs
