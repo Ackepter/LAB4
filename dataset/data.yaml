@@ -1,0 +1,13 @@
+train: train.txt
+val: val.txt
+test: test.txt
+
+nc: 1
+names: ['Drone']
+
+roboflow:
+  workspace: ackepters-workspace
+  project: algo-lab-4
+  version: 2
+  license: Private
+  url: https://app.roboflow.com/ackepters-workspace/algo-lab-4/2

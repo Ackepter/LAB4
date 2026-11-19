@@ -1,1 +1,19 @@
-README.roboflow.txt
+# Python and local dependencies
+__pycache__/
+/.cuda-packages/
+
+# Generated dataset files
+/dataset/README.roboflow.txt
+/dataset/detection/
+/dataset/train.txt
+/dataset/val.txt
+/dataset/test.txt
+/dataset/train300.txt
+/dataset/test43.txt
+*.cache
+
+# Local YOLO weights, settings, and outputs
+/yolov8s.pt
+/Ultralytics/
+/runs/
+/training*.log
